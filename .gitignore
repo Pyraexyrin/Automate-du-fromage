@@ -30,3 +30,19 @@
 
 # Debug files
 *.dSYM/
+
+# Additionnal
+tests/test_automate_accessible
+tests/test_automate_vide
+tests/test_automate_du_melange
+tests/test_creer_automate
+tests/test_delta_delta_star
+tests/test_ensemble
+tests/test_get_max_etat
+tests/test_miroir
+tests/test_table
+tests/test_translater_etat
+*~
+doc/*
+Doxy*
+*.dox
